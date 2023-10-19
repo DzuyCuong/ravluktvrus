@@ -1,0 +1,222 @@
+{
+	"tv_program_path":"",
+	"channels": [
+
+		{
+			"name":"Первый крымский",
+			"path":"https://live1.trkcrimea.ru/1tvcrimea.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10130/logo_256_1660806736.png",
+			"tv_show_id":"1krym"
+        },
+        {
+			"name":"Крым 24",
+			"path":"https://live24.trkcrimea.ru/switcher.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10131/logo_256_1660805381.png",
+			"tv_show_id":"krym24"
+		},
+		{
+			"name":"ЛенТВ 24",
+			"path":"https://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10194/logo_256_1660805499.png",
+			"tv_show_id":"lot47"
+		},
+		{
+			"name":"Санкт-Петербург",
+			"path":"https://streamsrv2.tvspb.ru/APP/tracks-v1a1/mono.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10195/logo_256_1660828805.png",
+			"tv_show_id":"spb"
+		},
+		{
+			"name":"12 канал",
+			"path":"https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10155/logo_256_1660800324.png",
+			"tv_show_id":"12omsk"
+		},
+		{
+			"name":"Краснодар",
+			"path":"https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist_sdhigh.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10114/logo_256_1660805366.png",
+			"tv_show_id":"krasnodar"
+		},
+		{
+			"name":"Новороссийск",
+			"path":"https://novros.mediacdn.ru/cdn/novorossiysk/playlist_hdhigh.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/13581/logo_256_1660807795.png",
+			"tv_show_id":"novorossiisk"
+		},
+		{
+			"name":"Югра ТВ",
+			"path":"https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10329/logo_256_1660810083.png",
+			"tv_show_id":"ugra"
+		},
+		{
+			"name":"С1",
+			"path":"https://sitv.ru/hls/stv.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10279/logo_256_1660828786.png",
+			"tv_show_id":"s1surgut"
+		},
+		{
+			"name":"С86",
+			"path":"https://sitv.ru/hls/s86.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10280/logo_256_1660828764.png",
+			"tv_show_id":"s86surgut"
+		},
+		{
+			"name":"Толк",
+			"path":"https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10463/logo_256_1660809624.png",
+			"tv_show_id":"tolk"
+		},
+		{
+			"name":"360",
+			"path":"https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10043/logo_256_1655386875.png",
+			"tv_show_id":"uanews"
+		},
+		{
+			"name":"360 Новости",
+			"path":"https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10377/logo_256_1655386853.png",
+			"tv_show_id":"360news"
+		},
+		{
+			"name":"Катунь 24",
+			"path":"https://live.katun24.ru:8082/katun/katun/index.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10165/logo_256_1660805256.png",
+			"tv_show_id":"katun24"
+		},
+		{
+			"name":"Миллет",
+			"path":"https://live.trkmillet.ru/millet/index.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10361/logo_256_1660805685.png",
+			"tv_show_id":"millet"
+		},
+		{
+			"name":"ОТВ Прим",
+			"path":"https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10117/logo_256_1669980173.png",
+			"tv_show_id":"otvprim"
+		},
+		{
+			"name":"Первый канал",
+			"path":"https://streaming.televizor-24-tochka.ru/live/4.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/105/logo_256_1655386697.png",
+			"tv_show_id":"1kanal"
+		},
+		{
+			"name":"Россия 1",
+			"path":"https://streaming.televizor-24-tochka.ru/live/5.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png",
+			"tv_show_id":"russia1"
+		},
+		{
+			"name":"Матч ТВ",
+			"path":"https://streaming.televizor-24-tochka.ru/live/6.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/157/logo_256_1655390359.png",
+			"tv_show_id":"match"
+		},
+		{
+			"name":"НТВ",
+			"path":"https://streaming.televizor-24-tochka.ru/live/7.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/10100/logo_256_1655385292.png",
+			"tv_show_id":"ntv"
+		},
+		{
+			"name":"5 Канал",
+			"path":"https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/3/logo_256_1683697968.png",
+			"tv_show_id":"5kanal"
+		},
+		{
+			"name":"Россия К",
+			"path":"https://streaming.televizor-24-tochka.ru/live/9.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png",
+			"tv_show_id":"russiak"
+		},
+		{
+			"name":"Россия 24",
+			"path":"https://streaming.televizor-24-tochka.ru/live/10.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png",
+			"tv_show_id":"russia24"
+		},
+		{
+			"name":"Карусель",
+			"path":"https://streaming.televizor-24-tochka.ru/live/11.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/78/logo_256_1688385014.png",
+			"tv_show_id":"karusel"
+		},
+		{
+			"name":"ОТР",
+			"path":"https://streaming.televizor-24-tochka.ru/live/12.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/101/logo_256_1655445073.png",
+			"tv_show_id":"otr"
+		},
+		{
+			"name":"ТВ Центр",
+			"path":"https://streaming.televizor-24-tochka.ru/live/13.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/129/logo_256_1655445000.png",
+			"tv_show_id":"tvcenter"
+		},
+		{
+			"name":"РЕН ТВ",
+			"path":"https://streaming.televizor-24-tochka.ru/live/14.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png",
+			"tv_show_id":"rentv"
+		},
+		{
+			"name":"Спас",
+			"path":"https://streaming.televizor-24-tochka.ru/live/15.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/124/logo_256_1655445048.png",
+			"tv_show_id":"spas"
+		},
+		{
+			"name":"СТС",
+			"path":"https://streaming.televizor-24-tochka.ru/live/16.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png",
+			"tv_show_id":"sts"
+		},
+		{
+			"name":"Домашний",
+			"path":"https://streaming.televizor-24-tochka.ru/live/17.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/67/logo_256_1692687479.png",
+			"tv_show_id":"domashnii"
+		},
+		{
+			"name":"ТВ-3",
+			"path":"https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/130/logo_256_1695125051.png",
+			"tv_show_id":"tv3"
+		},
+		{
+			"name":"Пятница",
+			"path":"https://streaming.televizor-24-tochka.ru/live/19.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/109/logo_256_1655448739.png",
+			"tv_show_id":"pyatnitsa"
+		},
+		{
+			"name":"Звезда",
+			"path":"https://streaming.televizor-24-tochka.ru/live/21.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/72/logo_256_1655448761.png",
+			"tv_show_id":"zvezda"
+		},
+		{
+			"name":"Мир",
+			"path":"https://streaming.televizor-24-tochka.ru/live/22.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/88/logo_256_1655448812.png",
+			"tv_show_id":"mir"
+		},
+		{
+			"name":"ТНТ",
+			"path":"https://streaming.televizor-24-tochka.ru/live/23.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/136/logo_256_1655448788.png",
+			"tv_show_id":"tnt"
+		},
+		{
+			"name":"МУЗ ТВ",
+			"path":"https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+			"image":"https://assets-iptv2022.cdnvideo.ru/static/channel/93/logo_256_1655386660.png",
+			"tv_show_id":"muztv"
+		}
+	]
+}
